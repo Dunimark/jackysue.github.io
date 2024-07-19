@@ -1,2 +1,3 @@
-# jackysue.github.io
-jackysue project website
+# Blog
+
+Just a Test blog inside a Github Repo
